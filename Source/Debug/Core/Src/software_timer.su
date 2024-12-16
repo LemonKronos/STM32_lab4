@@ -1,0 +1,4 @@
+software_timer.c:15:6:set_timer	24	static
+software_timer.c:33:6:cancel_timer	40	static
+software_timer.c:75:6:timer_tick	32	static
+software_timer.c:116:6:unit_test_software_timer	8	static

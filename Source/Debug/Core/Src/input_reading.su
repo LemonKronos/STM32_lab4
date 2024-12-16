@@ -1,0 +1,5 @@
+input_reading.c:38:15:button_pin_read	16	static
+input_reading.c:55:6:button_reading	24	static
+input_reading.c:131:6:resetButtonFlag	8	static
+input_reading.c:162:6:unit_test_button_press	8	static
+input_reading.c:167:6:unit_test_button_read	8	static

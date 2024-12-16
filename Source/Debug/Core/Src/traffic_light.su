@@ -1,0 +1,4 @@
+traffic_light.c:16:6:fsm_traffic	16	static
+traffic_light.c:50:6:lit_red	16	static
+traffic_light.c:63:6:lit_yellow	16	static
+traffic_light.c:76:6:lit_green	16	static

@@ -1,0 +1,7 @@
+Scheduler.c:10:6:SCH_Init	16	static
+Scheduler.c:21:6:SCH_Update	16	static
+Scheduler.c:40:6:SCH_AddTask	40	static
+Scheduler.c:77:6:SCH_Dispatch	16	static
+Scheduler.c:94:8:SCH_DeleteTask	24	static,ignoring_inline_asm
+Scheduler.c:141:6:SCH_GoSleep	4	static,ignoring_inline_asm
+Scheduler.c:145:6:HAL_TIM_PeriodElapsedCallback	16	static

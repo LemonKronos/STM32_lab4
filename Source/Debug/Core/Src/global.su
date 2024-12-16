@@ -1,0 +1,2 @@
+global.c:13:8:p_clockSet	16	static
+global.c:18:8:p_clockRun	4	static

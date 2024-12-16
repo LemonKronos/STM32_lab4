@@ -1,0 +1,4 @@
+fsm_input_driven.c:22:6:fsm_input_driven_normal	8	static
+fsm_input_driven.c:107:6:fsm_input_driven_config	16	static
+fsm_input_driven.c:190:6:toggleLed	16	static
+fsm_input_driven.c:207:6:flushLed	8	static

@@ -1,0 +1,4 @@
+input_processing.c:17:6:fsm_input_driven_normal	8	static
+input_processing.c:134:6:fsm_input_driven_config	24	static
+input_processing.c:251:6:toggleLed	16	static
+input_processing.c:268:6:flushLed	8	static
